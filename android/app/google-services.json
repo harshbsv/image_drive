@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299380329166",
+    "project_id": "image-drive-5e1c2",
+    "storage_bucket": "image-drive-5e1c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299380329166:android:5202061bcb792d8ad69e9f",
+        "android_client_info": {
+          "package_name": "com.example.image_drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB597BWi0WW8AUcLB4bQotwlflhGp5vbu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
